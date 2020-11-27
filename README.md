@@ -1,2 +1,0 @@
-# FirstApp
- Deploy first app
